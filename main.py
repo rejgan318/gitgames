@@ -1,6 +1,7 @@
 import colorama as co
 
 # Добавим новые спорные возможности...
+# Еще исправляю
 
-# Все готово к перелету, фиксируем точку отката
-print(f"{co.Fore.RED}Hello{co.Fore.RESET} World")
+# Все готово к переплету, фиксируем дочку! отката
+print(f"{co.Fore.RED}Hello{co.Fore.RESET}, WORLD")
