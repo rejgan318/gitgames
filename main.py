@@ -4,4 +4,4 @@ import colorama as co
 # Еще исправляю
 
 # Все готово к переплету, фиксируем дочку! отката
-print(f"{co.Fore.RED}Hello{co.Fore.RESET}, WORLD")
+print(f"{co.Fore.RED}Hello{co.Fore.RESET}, WORLD!")
